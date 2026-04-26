@@ -1,0 +1,17 @@
+*{
+    text-align: center;
+}
+
+.titulo {
+    color: white;
+    background-color: pink;
+    text-align: center;
+    padding: 50px;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.tipos {
+    font-size: 50px;
+
+}
